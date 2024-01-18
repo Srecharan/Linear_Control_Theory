@@ -1,11 +1,43 @@
-# Modern-Control-Theory-and-Applications-
-Coursework:
-State Space representation, linearization, and similarity transformation.
-Continuous-Time and Discrete-Time Linear Time-Invariant system solutions.
-Controllability, Observability, CO Matrices, and Singular Value Decomposition.
-Connection between state-space and transfer functions, and Kalman Decomposition.
-Definitions and criteria for Lyapunov Stability, CT/DT LTI Stability, and Bounded Input Bounded Output stability.
-Advanced topics like Pole Placement, Optimal and Stochastic Control.
-Adaptive Control strategies including Model Reference Adaptive Control.
-Design and principle of both Finite and Infinite Horizon Discrete-Time Linear Quadratic Regulators.
-The application of Matrix Equations in Riccati Equations, along with the Kalman Filter and Extended Kalman Filter for system estimation.
+# Modern Control Theory and Applications
+
+## Course Overview
+This repository contains materials and projects related to the Modern Control Theory and Applications course. The course provides a comprehensive exploration of state-space methods, system analysis, and advanced control strategies.
+
+## Topics Covered
+
+### Foundational Concepts
+- State-space representation of dynamic systems
+- Linearization techniques
+- Similarity transformations
+- Solutions for Continuous-Time and Discrete-Time Linear Time-Invariant systems
+
+### System Analysis
+- Controllability and Observability
+- CO Matrices and Singular Value Decomposition
+- Relationships between state-space models and transfer functions
+- Kalman Decomposition
+
+### Stability Theory
+- Lyapunov Stability definitions and criteria
+- Continuous-Time and Discrete-Time LTI Stability
+- Bounded Input Bounded Output (BIBO) stability
+
+### Advanced Control Techniques
+- Pole Placement strategies
+- Optimal Control methods
+- Stochastic Control approaches
+- Adaptive Control including Model Reference Adaptive Control (MRAC)
+
+### Optimal Control Implementation
+- Design principles for Linear Quadratic Regulators (LQR)
+- Finite and Infinite Horizon Discrete-Time LQR
+- Matrix Equations in Riccati form
+- Kalman Filter and Extended Kalman Filter for system estimation
+
+## Resources
+The repository includes lecture notes, assignments, project implementations, and reference materials that demonstrate the practical application of modern control theory concepts.
+
+## Requirements
+- MATLAB/Simulink (recommended for simulations)
+- Python with control systems libraries (optional)
+
