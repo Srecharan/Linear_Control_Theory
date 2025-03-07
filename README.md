@@ -34,10 +34,4 @@ This repository contains materials and projects related to the Modern Control Th
 - Matrix Equations in Riccati form
 - Kalman Filter and Extended Kalman Filter for system estimation
 
-## Resources
-The repository includes lecture notes, assignments, project implementations, and reference materials that demonstrate the practical application of modern control theory concepts.
-
-## Requirements
-- MATLAB/Simulink (recommended for simulations)
-- Python with control systems libraries (optional)
 
